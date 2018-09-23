@@ -1,34 +1,34 @@
 # Cuestionario Primera Solemne de Biología Molecular
-### 1) Los ADNs de dos organismos distintos tienen idéntico porcentaje de G+C: (Explique en no más de tres líneas su respuesta) (1 pt c/u)
-#### a) ¿Indica este dato que ambos poseen ADN de doble hélice?	
+#### 1) Los ADNs de dos organismos distintos tienen idéntico porcentaje de G+C: (Explique en no más de tres líneas su respuesta) (1 pt c/u)
+##### a) ¿Indica este dato que ambos poseen ADN de doble hélice?	
 XXXxxx
-#### b) ¿Significa que tienen la misma secuencia de bases nitrogenadas?
+##### b) ¿Significa que tienen la misma secuencia de bases nitrogenadas?
 XXXxxx
-#### c) ¿Indica que tienen la misma longitud?
+##### c) ¿Indica que tienen la misma longitud?
 
-#### d) ¿Sugiere que poseen la misma velocidad de renaturalización?
+##### d) ¿Sugiere que poseen la misma velocidad de renaturalización?
 	
-#### e) ¿Significa que son de igual densidad?
+##### e) ¿Significa que son de igual densidad?
 	
-#### f) ¿Tendrían estos dos ADNs la misma temperatura de fusión (Tm)?
+##### f) ¿Tendrían estos dos ADNs la misma temperatura de fusión (Tm)?
 
-### 2) En muestras de DNA aisladas de dos bacterias distintas, la composición de A es de 32% y 17% respectivamente. (2p c/u)
-#### a) ¿Qué cantidad de G, C y T esperaría encontrar en cada una de las muestras de DNA?
-#### b)  ¿Si ambos DNAs fuesen de doble hebra, es posible determinar la composición de G, C y T? Explique.
-#### c) ¿Una de estas bacterias podría ser termofílica?
+#### 2) En muestras de DNA aisladas de dos bacterias distintas, la composición de A es de 32% y 17% respectivamente. (2p c/u)
+##### a) ¿Qué cantidad de G, C y T esperaría encontrar en cada una de las muestras de DNA?
+##### b)  ¿Si ambos DNAs fuesen de doble hebra, es posible determinar la composición de G, C y T? Explique.
+##### c) ¿Una de estas bacterias podría ser termofílica?
 
-### 3) Una molécula de ADN, con sus dos hebras marcadas radiactivamente al inicio del experimento, es sometida a dos ciclos de replicación en una solución libre del marcador radiactivo. ¿De las cuatro moléculas resultantes de ADN, como es la distribución de la marca radiactiva?  HAGA UN ESQUEMA  CLARO (6p)
+#### 3) Una molécula de ADN, con sus dos hebras marcadas radiactivamente al inicio del experimento, es sometida a dos ciclos de replicación en una solución libre del marcador radiactivo. ¿De las cuatro moléculas resultantes de ADN, como es la distribución de la marca radiactiva?  HAGA UN ESQUEMA  CLARO (6p)
 
-### 4) Las células eucariotas tienen problemas únicos asociados a la replicación del DNA, cuando se compara con procariotas. Indique dos y describa brevemente como los eucariotas resuelven ese problema. Máximo tres líneas por cada uno. (3p c/u)
+#### 4) Las células eucariotas tienen problemas únicos asociados a la replicación del DNA, cuando se compara con procariotas. Indique dos y describa brevemente como los eucariotas resuelven ese problema. Máximo tres líneas por cada uno. (3p c/u)
 
-### 5) Con respecto a la replicación de DNA en procariontes: (2p c/u)
-#### a) Definición general del proceso e importancia biológica.
-#### b) Explicar el proceso en procariotas.
-#### c) Realizar un esquema, señalando las estructuras más importantes.
+#### 5) Con respecto a la replicación de DNA en procariontes: (2p c/u)
+##### a) Definición general del proceso e importancia biológica.
+##### b) Explicar el proceso en procariotas.
+##### c) Realizar un esquema, señalando las estructuras más importantes.
 
-### 6) La siguiente imagen es una comparación criminalística. Ocurrió un homicidio en una reunión. Al asesinado (A) se le encontraron restos de tejido de su asesino (B) abajo de sus uñas. Se tomaron muestras de sangre de los presentes en la reunión para su análisis, pues todos son sospechosos (S1, S2, S3, S4, S5). ¿Uno de estos sospechosos puede ser el asesino?, si es así, ¿cuál o cuáles? Explique. (6p)
+#### 6) La siguiente imagen es una comparación criminalística. Ocurrió un homicidio en una reunión. Al asesinado (A) se le encontraron restos de tejido de su asesino (B) abajo de sus uñas. Se tomaron muestras de sangre de los presentes en la reunión para su análisis, pues todos son sospechosos (S1, S2, S3, S4, S5). ¿Uno de estos sospechosos puede ser el asesino?, si es así, ¿cuál o cuáles? Explique. (6p)
 
-### 7) Usted realiza una purificación de DNA a partir de una muestra de origen vegetal. 
+#### 7) Usted realiza una purificación de DNA a partir de una muestra de origen vegetal. 
  
 Luego realiza un PCR de todas las muestras para amplificar un gen blanco (genX). Sin embargo, las únicas muestras para las cuales usted obtiene un amplicón son en las muestras de DNA genómico, identificadas como L1, L6 y L7 (Derecha). Identifique los posibles problemas asociadas a la aislación de DNA genómico y cómo eso puede afectar el PCR.(6p).
 
