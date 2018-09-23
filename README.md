@@ -1,7 +1,6 @@
 # Cuestionario Primera Solemne de Biología Molecular
 ## 1) Los ADNs de dos organismos distintos tienen idéntico porcentaje de G+C: (Explique en no más de tres líneas su respuesta) (1 pt c/u)
-
-a) ¿Indica este dato que ambos poseen ADN de doble hélice?	
+### a) ¿Indica este dato que ambos poseen ADN de doble hélice?	
 
 b) ¿Significa que tienen la misma secuencia de bases nitrogenadas?
 	
