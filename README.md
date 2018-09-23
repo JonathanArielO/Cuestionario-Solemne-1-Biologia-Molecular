@@ -1,5 +1,5 @@
 # Cuestionario Primera Solemne de Biología Molecular
-#### 1) Los ADNs de dos organismos distintos tienen idéntico porcentaje de G+C: (Explique en no más de tres líneas su respuesta) (1 pt c/u)
+#### 1) Los ADNs de dos organismos distintos tienen idéntico porcentaje de G+C: (Explique en no más de tres líneas su respuesta).
 ##### a) ¿Indica este dato que ambos poseen ADN de doble hélice?	
 ###### XXXxxx
 ##### b) ¿Significa que tienen la misma secuencia de bases nitrogenadas?
@@ -12,27 +12,27 @@
 ###### XXXxxx
 ##### f) ¿Tendrían estos dos ADNs la misma temperatura de fusión (Tm)?
 ###### XXXxxx
-#### 2) En muestras de DNA aisladas de dos bacterias distintas, la composición de A es de 32% y 17% respectivamente. (2p c/u)
+#### 2) En muestras de DNA aisladas de dos bacterias distintas, la composición de A es de 32% y 17% respectivamente.
 ##### a) ¿Qué cantidad de G, C y T esperaría encontrar en cada una de las muestras de DNA?
 ###### XXXxxx
 ##### b)  ¿Si ambos DNAs fuesen de doble hebra, es posible determinar la composición de G, C y T? Explique.
 ###### XXXxxx
 ##### c) ¿Una de estas bacterias podría ser termofílica?
 ###### XXXxxx
-#### 3) Una molécula de ADN, con sus dos hebras marcadas radiactivamente al inicio del experimento, es sometida a dos ciclos de replicación en una solución libre del marcador radiactivo. ¿De las cuatro moléculas resultantes de ADN, como es la distribución de la marca radiactiva?  HAGA UN ESQUEMA  CLARO (6p)
+#### 3) Una molécula de ADN, con sus dos hebras marcadas radiactivamente al inicio del experimento, es sometida a dos ciclos de replicación en una solución libre del marcador radiactivo. ¿De las cuatro moléculas resultantes de ADN, como es la distribución de la marca radiactiva? (Haga un esquema)
 ###### XXXxxx
-#### 4) Las células eucariotas tienen problemas únicos asociados a la replicación del DNA, cuando se compara con procariotas. Indique dos y describa brevemente como los eucariotas resuelven ese problema. Máximo tres líneas por cada uno. (3p c/u)
+#### 4) Las células eucariotas tienen problemas únicos asociados a la replicación del DNA, cuando se compara con procariotas. Indique dos y describa brevemente como los eucariotas resuelven ese problema. Máximo tres líneas por cada uno.
 ###### XXXxxx
-#### 5) Con respecto a la replicación de DNA en procariontes: (2p c/u)
+#### 5) Con respecto a la replicación de DNA en procariontes:
 ##### a) Definición general del proceso e importancia biológica.
 ###### XXXxxx
 ##### b) Explicar el proceso en procariotas.
 ###### XXXxxx
 ##### c) Realizar un esquema, señalando las estructuras más importantes.
 ###### XXXxxx
-#### 6) La siguiente imagen es una comparación criminalística. Ocurrió un homicidio en una reunión. Al asesinado (A) se le encontraron restos de tejido de su asesino (B) abajo de sus uñas. Se tomaron muestras de sangre de los presentes en la reunión para su análisis, pues todos son sospechosos (S1, S2, S3, S4, S5). ¿Uno de estos sospechosos puede ser el asesino?, si es así, ¿cuál o cuáles? Explique. (6p)
+#### 6) La siguiente imagen es una comparación criminalística. Ocurrió un homicidio en una reunión. Al asesinado (A) se le encontraron restos de tejido de su asesino (B) abajo de sus uñas. Se tomaron muestras de sangre de los presentes en la reunión para su análisis, pues todos son sospechosos (S1, S2, S3, S4, S5). ¿Uno de estos sospechosos puede ser el asesino?, si es así, ¿cuál o cuáles? Explique.
 ###### XXXxxx
-#### 7) Usted realiza una purificación de DNA a partir de una muestra de origen vegetal. Luego realiza un PCR de todas las muestras para amplificar un gen blanco (genX). Sin embargo, las únicas muestras para las cuales usted obtiene un amplicón son en las muestras de DNA genómico, identificadas como L1, L6 y L7 (Derecha). Identifique los posibles problemas asociadas a la aislación de DNA genómico y cómo eso puede afectar el PCR.(6p).
+#### 7) Usted realiza una purificación de DNA a partir de una muestra de origen vegetal. Luego realiza un PCR de todas las muestras para amplificar un gen blanco (genX). Sin embargo, las únicas muestras para las cuales usted obtiene un amplicón son en las muestras de DNA genómico, identificadas como L1, L6 y L7 (Derecha). Identifique los posibles problemas asociadas a la aislación de DNA genómico y cómo eso puede afectar el PCR.
 ###### XXXxxx
 #### 8) Se empleó RNA polimerasa de E. coli para transcribir in vitro el DNA de un bacteriófago. En ausencia del factor de terminación rho, se obtuvo un transcrito con un coeficiente de sedimentación 30S. En otros experimentos, se añadió rho a la mezcla de transcripción a distintos tiempos y varios segundos después de añadir rho se añadió un inhibidor para bloquear nuevos inicios de transcripción. Cuando se añadió rho inmediatamente después de empezar la transcripción, se obtuvo un transcrito de 10S. Cuando rho se añadió después de 50 segundos, se obtuvo un transcrito de 22S. Cuando se añadió después de 150 segundos, se obtuvo el transcrito de 30S. Explica estos resultados.
 ###### XXXxxx
